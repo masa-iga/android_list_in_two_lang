@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ブロック02</string>
+    <string name="textView_prompt">動物をひろう</string>
+    <string name="dog">犬</string>
+    <string name="cat">猫</string>
+    <string name="pig">豚</string>
+    <string name="horse">馬</string>
+    <string name="toastMessage">あなたが拾ったのは</string>
+</resources>
