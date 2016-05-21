@@ -6,4 +6,5 @@
     <string name="cat">猫</string>
     <string name="pig">豚</string>
     <string name="horse">馬</string>
+    <string name="toastMessage">あなたが拾ったのは</string>
 </resources>
